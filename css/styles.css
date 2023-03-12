@@ -200,9 +200,13 @@ a:hover {
 }
 .copyright {
 color: #6D6D6D;
-background: #000000;
+background: white;
 padding: 20px 0;
-border-top: 1px solid #1D1D1D;
+border-top: 1px dashed #104B8E;
+}
+
+.blue {
+	color: #104B8E !important;
 }
 #home{
 background: #a30046;
@@ -611,7 +615,7 @@ img, video, iframe, embed, object {
 	padding-bottom: 25px;
 	overflow: hidden;
 	background: #FFFFFF; 
-border-top: 1px dashed rgba(163, 0, 70, 0.35);
+border-top: 1px dashed #104B8E;
 }
 #aboutUs .feature {
 	margin-top: 30px;
@@ -1372,4 +1376,24 @@ color: #fff;
 }
 .isotopeWrapper article {
 	margin: 0px;
+}
+
+.phone{
+	display: flex;
+	justify-content: center;
+}
+
+.phoneIcon{
+	width: 17px;
+	height: 17px;
+	color: #104B8E;
+	margin: 5px 0px;
+}
+
+.profile{
+	width: 250px;
+	height: 250px;
+	border-radius: 100%;
+	margin-bottom: 16px;
+	flex: 1;
 }
