@@ -1399,13 +1399,13 @@ color: #fff;
 }
 
 /* mobile */
-@media (min-width: 700px) {
+@media (min-width: 600px) {
 	.directionResponsive{
 		flex-direction: row;
 	}
 }
 
-@media (max-width: 700px) {
+@media (max-width: 600px) {
 	.directionResponsive{
 		flex-direction: column;
 	}
