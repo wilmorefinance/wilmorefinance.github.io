@@ -1397,3 +1397,16 @@ color: #fff;
 	margin-bottom: 16px;
 	flex: 1;
 }
+
+/* mobile */
+@media (min-width: 700px) {
+	.directionResponsive{
+		flex-direction: row;
+	}
+}
+
+@media (max-width: 700px) {
+	.directionResponsive{
+		flex-direction: column;
+	}
+}
