@@ -157,7 +157,7 @@
 	cursor: pointer;
 	z-index: 8040;
 	background-image: none;
-	background-color: #26292E;
+	/* background-color: #26292E; */
 	
 	opacity: 0.5;
 	
