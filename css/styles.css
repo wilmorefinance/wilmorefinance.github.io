@@ -7,11 +7,11 @@ Author URI: http://webthemez.com/
 * {
 	margin: 0;
 	padding: 0;
-	font-family: 'Open Sans', sans-serif;
+	font-family: 'Times New Roman', sans-serif !important;
 }
 body {
 	height: 100%;
-	font-family: 'Open Sans', sans-serif;
+	font-family: 'Times New Roman', sans-serif;
 	font-size: 14px;
 	line-height: 1.7;
 	color: #666666;
@@ -37,7 +37,7 @@ p {
 	margin: 0 0 1em !important;
 }
 h1, h2, h3, h4, h5, h6 {
-	font-family:36px 'Open Sans', sans-serif;
+	font-family:36px 'Times New Roman', sans-serif;
 }
 .fitImage {
 	max-width: 100%;
@@ -306,10 +306,10 @@ right:0px; bottom:0px;}
 	width: 83%;
 	text-align: center;
 	margin: 23% auto 24px auto;
-	font-family: 'Titillium Web', sans-serif;
+	font-family: 'Times New Roman', sans-serif;
 }
 .hero-text p {
-	font-family: 'Titillium Web', sans-serif;
+	font-family: 'Times New Roman', sans-serif;
 	padding: 0;
 	margin: 12px 8% 0;
 	text-shadow: 0px 1px 2px rgba(0, 0, 0, .2);
@@ -370,7 +370,7 @@ right:0px; bottom:0px;}
 }
 .navbar-brand b {
 	color: #a30046;
-	font-family: 'Titillium Web', sans-serif;
+	font-family: 'Times New Roman', sans-serif;
 	font-weight: 900;
 }
 .navbar-brand b i {
@@ -408,7 +408,7 @@ right:0px; bottom:0px;}
 	margin: 17px;
 	padding: 6px 0px !important;
 	border-radius: 5px;
-	font-family: 'Titillium Web', sans-serif;
+	font-family: 'Times New Roman', sans-serif;
 	font-weight: 400;
 }
 .navbar-inverse .navbar-nav > .active > a, .navbar-inverse .navbar-nav > .active > a:hover, .navbar-inverse .navbar-nav > .active > a:focus {
@@ -550,7 +550,7 @@ line-height: 50px;
 }
 .heading h2 {
 	color: #222;
-	font-family: 'Titillium Web', sans-serif;
+	font-family: 'Times New Roman', sans-serif;
 	text-transform:capitalize !important;
 	font-weight: normal !important;
 	padding:0 0 25px !important;
@@ -904,7 +904,7 @@ hr {
 }
 body {
 	margin: 0;
-	font-family: Arial, sans-serif;
+	font-family: 'Times New Roman', sans-serif;
 }
 #navigation {
 	position: fixed;
